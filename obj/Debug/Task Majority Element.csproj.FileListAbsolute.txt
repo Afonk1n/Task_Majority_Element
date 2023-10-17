@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Majority Element\bin\Debug\Task Majority Element.exe.config
+C:\Users\mafon\source\repos\Task Majority Element\bin\Debug\Task Majority Element.exe
+C:\Users\mafon\source\repos\Task Majority Element\bin\Debug\Task Majority Element.pdb
+C:\Users\mafon\source\repos\Task Majority Element\obj\Debug\Task Majority Element.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Majority Element\obj\Debug\Task Majority Element.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Majority Element\obj\Debug\Task Majority Element.exe
+C:\Users\mafon\source\repos\Task Majority Element\obj\Debug\Task Majority Element.pdb
